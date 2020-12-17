@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Clipnade | YouTube" width="22px" src="https://cdn.jsdelivr.net" />][youtube]
-[<img align="left" alt="Praveen K Nair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Praveen K Nair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Clipnade | YouTube" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/youtube-icon_128x128.png?_ga=2.249967744.727856217.1608210626-1148049237.1608210626" />][youtube]
+[<img align="left" alt="Praveen K Nair | Twitter" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/twitter-icon_128x128.png?_ga=2.52393007.727856217.1608210626-1148049237.1608210626" />][twitter]
+[<img align="left" alt="Praveen K Nair | LinkedIn" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.249967744.727856217.1608210626-1148049237.1608210626" />][linkedin]
 [<img align="left" alt="Praveen K Nair | Instagram" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_128x128.png?_ga=2.208027412.727856217.1608210626-1148049237.1608210626"/>][instagram]
 
 <br />
