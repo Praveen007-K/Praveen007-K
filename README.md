@@ -1,4 +1,4 @@
-### Hi there, I'm Praveen K Nair👋
+### Hi there, I'm Praveen K Nair <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Praveenknair9?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Praveenknair9)
 
