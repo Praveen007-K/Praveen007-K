@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Praveenknair9?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Praveenknair9)
 
-## I'm a CSE Student, ML Enthusiast and Artist!!
+## I'm a Software Engineer Trainee, ML Enthusiast and Artist!!
 
 - 🤖 I’m currently focusing Machine learning.
 - ⚽ Goals: Contribute more to Open Source projects.
